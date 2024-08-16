@@ -1,0 +1,7 @@
+Device,Total Checks,Uptime,Downtime,Uptime Percentage,Downtime Percentage
+Router,1,1,0,100,0
+Switch,1,1,0,100,0
+Server,1,1,60,40,60
+Printer,3,3,0,100,0
+Access Point,3,0,100,0,100
+Firewall,3,3,0,100,0
